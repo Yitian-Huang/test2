@@ -6,6 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import project.demo2.User.UserInfoRepository;
 
 import java.util.List;
+
 @Configuration
 public class UserInfoConfig {
     @Bean
